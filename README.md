@@ -7,8 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:ahmettalhatelli1453@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" alt="talhatelli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmet-talha-telli-09473a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhatelli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sonersimsek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonersimsek" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

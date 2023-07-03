@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmet Talha Telli</h1>
 <h3 align="center">I am working on being a frontend developer.</h3>
+<h5 align="center">
+🌱 I’m currently learning **JavaScript, Vue, React, Node.js, MongoDB, MySQL, Vuex, Redux, Html, CSS, Bootstrap**
 
-- 🌱 I’m currently learning **JavaScript, React, Redux, Html, CSS, Bootstrap**
-
-- 👨‍💻 All of my projects are available at [https://github.com/talhatelli?tab=repositories](https://github.com/talhatelli?tab=repositories)
-
+👨‍💻 All of my projects are available at [https://github.com/talhatelli?tab=repositories](https://github.com/talhatelli?tab=repositories)
+</h5>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="mailto:ahmettalhatelli1453@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" alt="talhatelli" height="30" width="40" /></a>
@@ -19,4 +19,4 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhatelli&show_icons=true&locale=en&layout=compact" alt="talhatelli" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhatelli&show_icons=true&locale=en&layout=compact" alt="talhatelli" /></p>

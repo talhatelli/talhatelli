@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7A800&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Native+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7A800&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Native+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🚀 Hi 👋, I'm Ahmet Talha Telli</h2>
